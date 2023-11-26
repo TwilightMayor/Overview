@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Serenity Quest</title>
+    
     <meta name="description" content="Welcome to Serenity Quest, an RPG adventure of tranquility and self-discovery.">
 </head>
 <body>
